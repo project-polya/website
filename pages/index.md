@@ -2,7 +2,7 @@
 title: Home
 ---
 
-**Welcome to Project Polya**
+# Welcome to Project Polya
 
 ## Introduction
 Project Polya is a group of repositories designed to bring ease and joy for the project grading of CSE

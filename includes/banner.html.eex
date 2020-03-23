@@ -1,0 +1,4 @@
+
+<img src="https://avatars2.githubusercontent.com/u/62010443?s=200&v=4" />
+<h1 class="center"><a href="<%= base() %>"><%= @site.name %></a></h1>
+<p class="center"><%= @site.description %></p>

@@ -1,7 +1,8 @@
-<ul>
+<ul class="center">
   <li><a href="<%= page "index" %>">Home</a></li>
   <li><a href="<%= page "nutshell" %>">Nutshell</a></li>
   <li><a href="<%= page "tulip" %>">Tulip</a></li>
   <li><a href="<%= page "wintersweet" %>">Wintersweet</a></li>
+  <li><a href="<%= page "polya" %>">Why Polya</a></li>
   <li><a href="<%= base "posts" %>">News</a></li>
 </ul>

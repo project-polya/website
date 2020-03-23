@@ -56,6 +56,7 @@ SUBCOMMANDS:
     status             See the current status
     submit             Edit current global settings
 ```
+
 ## Requirements for Use
 
 - `Linux` is required.
@@ -143,8 +144,8 @@ There are a lot of more details: for example, you can force to rebuild, force to
 
 ## Configuration
 
-- [global configuration](global.md)
-- [student configuration](student.md)
+- [global configuration](https://github.com/project-polya/tulip/blob/master/global.md)
+- [student configuration](https://github.com/project-polya/tulip/blob/master/student.md)
 
 
 

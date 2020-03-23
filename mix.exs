@@ -19,8 +19,7 @@ defmodule ProjectPolya.MixFile do
 
   defp deps do
     [
-      {:serum, "~> 1.4"},
-      {:serum_theme_essence, git: "https://github.com/project-polya/serum-theme-essence"}
+      {:serum, "~> 1.4"}
     ]
   end
 end
