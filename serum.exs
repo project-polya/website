@@ -1,6 +1,6 @@
 %{
   site_name: "Project Polya",
-  site_description: "TODO: Add site description",
+  site_description: "A series of tools for project grading of CSE students",
   date_format: "{WDfull}, {D} {Mshort} {YYYY}",
   base_url: "/",
   author: "Project Polya",

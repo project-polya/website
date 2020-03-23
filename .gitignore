@@ -25,4 +25,5 @@ project_polya-*.tar
 # The default directory which Serum builds the website into.
 /site/
 
-# do not save the lock, since change is expected
+# do not save the ls
+.elixir_ls
