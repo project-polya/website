@@ -9,7 +9,7 @@ Tulip is a part of [Project Polya](https://github.com/project-polya). It is the 
 
 You can visit the [repository here](https://github.com/project-polya/tulip).
 
-Tulip is also available at [crates.io](https://crates.io/https://crates.io/crates/tulip). You can install it via:
+Tulip is also available at [crates.io](https://crates.io/crates/tulip). You can install it via:
 
 
 ```text

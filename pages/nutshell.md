@@ -13,7 +13,7 @@ smoothly in later grading.
 
 You can visit the [repository here](https://github.com/project-polya/nutshell).
 
-Nutshell is also available at [crates.io](https://crates.io/https://crates.io/crates/nutshell). You can install it via:
+Nutshell is also available at [crates.io](https://crates.io/crates/nutshell). You can install it via:
 
 
 ```text
